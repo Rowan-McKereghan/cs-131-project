@@ -9,9 +9,9 @@ import sys
 
 
 
-portAlloc = '10480-10487';
+# portAlloc = ''' the school linux ports we were allowed to use '''
 
-googleAPIkey = 'AIzaSyB30sEFTgb60VzCuRCMA8b0-XJ59ukd9oA'
+# googleAPIkey = ''' the key that was allocated to us in class – costs real money to use '''
 
 nameToPorts = {'Juzang': "10480", 'Bernard': "10481", 'Jaquez': "10482", 'Campbell': "10483", 'Clark': "10484"}
 
