@@ -9,7 +9,7 @@ import sys
 
 
 
-# portAlloc = ''' the school linux ports we were allowed to use '''
+portAlloc = '10480-10487' # the ports i was allocated on the school server to use (now closed)
 
 # googleAPIkey = ''' the key that was allocated to us in class – costs real money to use '''
 
